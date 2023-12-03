@@ -1,0 +1,4 @@
+Instalar axios nesse proejeto foi usado a versao 0.26.0
+npm install axios@0.26.0
+
+criar uma para service e uma arquivo api.js
